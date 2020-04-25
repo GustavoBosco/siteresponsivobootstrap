@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.responsivo{
+    width: 100%;
+    background-color: rgb(169, 223, 205);
+    font-size: 24px;
+    border: 1px solid black;
+    float: left;
+    margin: 1%;
+}
+
+.titulo{
+    text-align: right;
+    border: 1px solid black;
+    margin-right: -1px;
+    margin-top: -1px;
+    float: right;
+    background-color: lightblue;
+}
+
+.bloco{
+    text-align: center;
+    margin: 10px;
+    background-color:lightblue;
+}
+
+h2 {
+    float: right;
+    position: relative;
+    top: -20px;
+}
+.h21{
+    background-color: rgb(255, 187, 0);
+}
+.h22{
+    background-color: rgb(171, 235, 146);
+}
+.h23{
+    background-color: rgb(40, 151, 255);
+}
